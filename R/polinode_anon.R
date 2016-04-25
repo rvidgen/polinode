@@ -1,8 +1,8 @@
-###############################################
-# script to anonymize survey responses from Polinode
+########################################################
+# script to anonymize survey responses from polinode
 # author: Richard Vidgen, UNSW
 # date: 24 April 2016
-###############################################
+########################################################
 
 # set directory to where your SURVEY download file is
 setwd("/Users/ ... /polinodeData")
