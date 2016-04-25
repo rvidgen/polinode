@@ -5,7 +5,7 @@
 ###############################################
 
 # set directory to where your SURVEY download file is
-setwd("/Users/ ... /PolinodeData")
+setwd("/Users/ ... /polinodeData")
 getwd()
 
 # set input and ouput excel file names
